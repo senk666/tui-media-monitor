@@ -36,7 +36,7 @@ sudo dnf install playerctl alsa-utils
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/senk666/tui-media-monitor.git
    cd tui-media-monitor
    ```
 
