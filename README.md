@@ -44,12 +44,7 @@ sudo dnf install playerctl alsa-utils
    ```bash
    ./bin/tty-monitor.sh
    ```
-
-*(Optional)* You can create a symlink to run it globally from anywhere in your system:
-```bash
-sudo ln -s $(pwd)/bin/tty-monitor.sh /usr/local/bin/tty-monitor
-```
-
+   
 ---
 
 ## 🎛 Keybindings
