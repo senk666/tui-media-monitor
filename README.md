@@ -8,8 +8,8 @@ A lightweight, zero-dependency (pure Bash) terminal media monitor designed speci
 
 ```text
 tui-media-monitor/
-├── bin/
-│   └── tty-monitor.sh    # The main executable script
+└── bin/
+    └── tty-monitor.sh    # The main executable script
 ```
 
 ---
