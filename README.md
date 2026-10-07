@@ -10,8 +10,6 @@ A lightweight, zero-dependency (pure Bash) terminal media monitor designed speci
 tui-media-monitor/
 ├── bin/
 │   └── tty-monitor.sh    # The main executable script
-├── config/               # Configuration templates (for future updates)
-└── doc/                  # Documentation, screenshots, and assets
 ```
 
 ---
