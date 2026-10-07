@@ -42,6 +42,7 @@ sudo dnf install playerctl alsa-utils
 
 2. Run the script directly from the `bin` directory:
    ```bash
+   chmod +x tty-monitor.sh
    ./bin/tty-monitor.sh
    ```
    
