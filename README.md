@@ -39,10 +39,12 @@ sudo dnf install playerctl alsa-utils
    git clone https://github.com/senk666/tui-media-monitor.git
    cd tui-media-monitor
    ```
-
-2. Run the script directly from the `bin` directory:
+3. Grant script execution permissions:
    ```bash
    chmod +x ./bin/tty-monitor.sh
+   ```
+2. Run the script directly from the `bin` directory:
+   ```bash
    ./bin/tty-monitor.sh
    ```
    
